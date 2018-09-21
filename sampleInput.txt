@@ -1,0 +1,26 @@
+Mary,1,05/02/2004,CEO
+Arthur,2,05/02/2004,Senior Director, Mary,1
+Emily,3,05/02/2004,Manager,Arthur,2
+Sachin,4,05/02/2004, Senior Engineer,Emily,3
+Wyatt,5,06/11/2004,Director,Mary, 1
+Hope,6,06/22/2004,Senior Engineer,Wyatt,5
+Samantha,7,11/28/2004,Manager,Wyatt,5
+Tom,15,12/04/2004,Engineer,Samantha,7
+Ronald,16,01/11/2005,Engineer,Samantha,7
+Emma,8,01/20/2005,Architect,Mary,1
+Jessica,9,01/20/2005,IT manager,Mary, 1
+Olivia,10,05/13/2005,Senior Manager,Arthur,2
+Austin,11,06/15/2005,Engineer,Olivia,10
+Harry,12,06/15/2005,Senior Engineer,Olivia,10
+Bilbo,13,07/25/2005,Engineer,Olivia,10
+Hannah,14,09/17/2005,IT Engineer,Jessica,9
+Lily,17,10/09/2005,Engineer,Hope,6
+Jeffrey,18,10/09/2005,Senior Engineer,Olivia,10
+Rebecca,19,02/04/2006,Engineer,Hope,6
+Abi,20,06/04/2006,Senior Engineer,Emma,8
+Elizabeth,21,07/01/2006,Engineer,Hope,6
+Jessie,22,08/18/2006,Engineer,Emily,3
+Louise,23,06/19/2008,Intern,Jessica,9
+Mary,24,06/19/2008,Intern,Emma,8
+Priya,25,06/19/2008,Intern,Sachin,4
+Zefong,26,06/19/2008,Intern,Harry,12
